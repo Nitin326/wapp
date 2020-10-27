@@ -14,7 +14,7 @@ body{
 }
 
 .app-main{
-    width: 300px;
+    width: 350px;
     margin: 150px auto;
     background-color:rgba(227, 231, 233, 0.6);
     padding: 20px;
@@ -56,11 +56,11 @@ body{
 }
 
 .city{
-    padding-top: 15px;
+    padding-top: 25px;
 }
 
 .date{
-    padding-top: 15px;
+    padding-top: 16px;
 }
 
 .temp{
@@ -79,11 +79,11 @@ body{
 .status{
     font-size: 17px;
     font-weight: bold;
-    padding-top: 10px;
+    padding-top: 17px;
 }
 
 .fas{
-    padding-top: 13px;
+    padding-top: 15px;
     font-size: 30px;
     color: black;
     font-weight: bold;
